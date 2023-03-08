@@ -13,30 +13,3 @@
 
 🚦Me caracterizo por ser una persona autocrítica, proactiva y con gran capacidad para el trabajo colaborativo.
 
-
-***********************************************
- 
-.
-.
-## Comandos de la Terminal
-
-Estos algunos de los comandos de uso común en la Terminal:
-
-| Comando | Descripción |
-| ------ | ------ |
-| date | Muestra la fecha y la hora del sistema actual |
-| ls | Lista los archivos de la carpeta actual, o de la ruta dada |
-| pwd | Muestra la ruta absoluta del directorio actual |
-| mkdir | Crea una nueva carpeta dado un nombre para esa carpeta |
-| rm | Nos permite eliminar un archivo dada su ruta |
-
-## Comandos alias de uso común
-
-Estos algunos de los comandos alias de uso común en la Terminal:
-
-| Comando | Descripción |
-| ------ | ------ |
-| alias npmd | alias para "npm run dev" |
-| alias cl | alias para "clear" |
-
-***********************************************
